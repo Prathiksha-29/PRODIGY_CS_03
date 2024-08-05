@@ -3,3 +3,8 @@ Password Strength: Weak
 - Password should contain at least one uppercase letter. 
 - Password should contain at least one lowercase letter. 
 - Password should contain at least one special character.
+
+
+
+Enter your password to assess its strength: John@123
+Password Strength: Strong
